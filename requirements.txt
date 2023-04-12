@@ -1,0 +1,8 @@
+altgraph==0.17.3
+fbs==1.2.1
+macholib==1.16.2
+pefile==2023.2.7
+PyInstaller==3.4
+PySide2==5.15.2.1
+pywin32-ctypes==0.2.0
+shiboken2==5.15.2.1
