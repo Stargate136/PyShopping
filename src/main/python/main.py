@@ -1,5 +1,5 @@
 from fbs_runtime.application_context.PySide2 import ApplicationContext
-from MainWindow import MainWindow
+from interface import MainWindow
 
 import sys
 
