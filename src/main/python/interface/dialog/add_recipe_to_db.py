@@ -206,7 +206,6 @@ class AddRecipeToDbDialog(QtWidgets.QDialog):
 
     def on_btn_add_ingredient(self):
         LOGGER.debug("btn_add_ingredient clicked")
-
         recipe_title = self.le_recipe_name.text()
         dialog = AddIngredientToRecipeDialog(recipe_title=recipe_title)
         result = dialog.exec_()
